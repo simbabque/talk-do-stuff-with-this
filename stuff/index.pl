@@ -1,5 +1,5 @@
 #!/usr/bin/perl -w
-#use strict;
+#use strict; # gives errors :(
 #use warnings;
 use CGI;
 use CGI::Carp "fatalsToBrowser";
