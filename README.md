@@ -13,7 +13,22 @@ Run this using [App::revealup](https://metacpan.org/pod/App::revealup). It will 
 Run the demos
 ===
 
+You should run each of these once and open all three demos in tabs
+in the right order. Leave them open and use them during the live demo.
 
+Go to the `stuff/` directory.
+
+    $ cd stuff
+
+Run the `http_this` example.
+
+    $ http_this
+    
+Abort and run the `http_this` example. It creates a new SSL cert.
+
+    $ https_this
+    
+Abort and run the `cgi_this` example.
 
 PDF
 ==
